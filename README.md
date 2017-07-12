@@ -1,7 +1,7 @@
 masterless
 ==========
 
-[![Build Status](https://travis-ci.org/globesherpa/masterless.png)](https://travis-ci.org/globesherpa/masterless)
+[![Build Status](https://travis-ci.org/alancnet/masterless.png)](https://travis-ci.org/alancnet/masterless)
 
 A fancy tcp client and server that acts as neither, and abstracts out connection deduplication between identical nodes.
 
@@ -189,4 +189,4 @@ License
 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[examples]: https://github.com/globesherpa/masterless/tree/master/examples "Examples"
+[examples]: https://github.com/alancnet/masterless/tree/master/examples "Examples"

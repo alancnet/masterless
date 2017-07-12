@@ -7,6 +7,7 @@
     "url": "https://github.com/alancnet/masterless/issues"
   },
   "dependencies": {
+    "chunk-by": "^0.1.1",
     "debug": "~1.0.2"
   },
   "description": "a duplex server with mesh network edge deduplication",
